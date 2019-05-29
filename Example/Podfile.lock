@@ -1,0 +1,16 @@
+PODS:
+  - LHFCocoapodsTest (0.1.0)
+
+DEPENDENCIES:
+  - LHFCocoapodsTest (from `../`)
+
+EXTERNAL SOURCES:
+  LHFCocoapodsTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LHFCocoapodsTest: 77ac32725694099237e3c5cfc2f4d31caf47a27f
+
+PODFILE CHECKSUM: 0149d1caad2d3ab16e3b41885ec8621f97f947bb
+
+COCOAPODS: 1.7.0

@@ -1,0 +1,6 @@
+framework module LHFCocoapodsTest {
+  umbrella header "LHFCocoapodsTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
